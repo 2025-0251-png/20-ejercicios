@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\examen\Verificación de año bisiesto\Verificación de año bisiesto\bin\Debug\net10.0\Verificación de año bisiesto.exe
+C:\Users\User\Desktop\ejercicios\examen\Verificación de año bisiesto\Verificación de año bisiesto\bin\Debug\net10.0\Verificación de año bisiesto.deps.json
+C:\Users\User\Desktop\ejercicios\examen\Verificación de año bisiesto\Verificación de año bisiesto\bin\Debug\net10.0\Verificación de año bisiesto.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\examen\Verificación de año bisiesto\Verificación de año bisiesto\bin\Debug\net10.0\Verificación de año bisiesto.dll
+C:\Users\User\Desktop\ejercicios\examen\Verificación de año bisiesto\Verificación de año bisiesto\bin\Debug\net10.0\Verificación de año bisiesto.pdb
+C:\Users\User\Desktop\ejercicios\examen\Verificación de año bisiesto\Verificación de año bisiesto\obj\Debug\net10.0\Verificación de año bisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\examen\Verificación de año bisiesto\Verificación de año bisiesto\obj\Debug\net10.0\Verificación de año bisiesto.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\Verificación de año bisiesto\Verificación de año bisiesto\obj\Debug\net10.0\Verificación de año bisiesto.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\examen\Verificación de año bisiesto\Verificación de año bisiesto\obj\Debug\net10.0\Verificación de año bisiesto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\Verificación de año bisiesto\Verificación de año bisiesto\obj\Debug\net10.0\Verificación de año bisiesto.dll
+C:\Users\User\Desktop\ejercicios\examen\Verificación de año bisiesto\Verificación de año bisiesto\obj\Debug\net10.0\refint\Verificación de año bisiesto.dll
+C:\Users\User\Desktop\ejercicios\examen\Verificación de año bisiesto\Verificación de año bisiesto\obj\Debug\net10.0\Verificación de año bisiesto.pdb
+C:\Users\User\Desktop\ejercicios\examen\Verificación de año bisiesto\Verificación de año bisiesto\obj\Debug\net10.0\Verificación de año bisiesto.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\examen\Verificación de año bisiesto\Verificación de año bisiesto\obj\Debug\net10.0\ref\Verificación de año bisiesto.dll
