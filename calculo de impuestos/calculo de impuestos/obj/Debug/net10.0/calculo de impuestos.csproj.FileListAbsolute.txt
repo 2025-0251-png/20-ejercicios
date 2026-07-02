@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\examen\calculo de impuestos\calculo de impuestos\bin\Debug\net10.0\calculo de impuestos.exe
+C:\Users\User\Desktop\ejercicios\examen\calculo de impuestos\calculo de impuestos\bin\Debug\net10.0\calculo de impuestos.deps.json
+C:\Users\User\Desktop\ejercicios\examen\calculo de impuestos\calculo de impuestos\bin\Debug\net10.0\calculo de impuestos.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\examen\calculo de impuestos\calculo de impuestos\bin\Debug\net10.0\calculo de impuestos.dll
+C:\Users\User\Desktop\ejercicios\examen\calculo de impuestos\calculo de impuestos\bin\Debug\net10.0\calculo de impuestos.pdb
+C:\Users\User\Desktop\ejercicios\examen\calculo de impuestos\calculo de impuestos\obj\Debug\net10.0\calculo de impuestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\examen\calculo de impuestos\calculo de impuestos\obj\Debug\net10.0\calculo de impuestos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\calculo de impuestos\calculo de impuestos\obj\Debug\net10.0\calculo de impuestos.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\examen\calculo de impuestos\calculo de impuestos\obj\Debug\net10.0\calculo de impuestos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\calculo de impuestos\calculo de impuestos\obj\Debug\net10.0\calculo de impuestos.dll
+C:\Users\User\Desktop\ejercicios\examen\calculo de impuestos\calculo de impuestos\obj\Debug\net10.0\refint\calculo de impuestos.dll
+C:\Users\User\Desktop\ejercicios\examen\calculo de impuestos\calculo de impuestos\obj\Debug\net10.0\calculo de impuestos.pdb
+C:\Users\User\Desktop\ejercicios\examen\calculo de impuestos\calculo de impuestos\obj\Debug\net10.0\calculo de impuestos.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\examen\calculo de impuestos\calculo de impuestos\obj\Debug\net10.0\ref\calculo de impuestos.dll

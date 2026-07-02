@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\examen\Calculadora de descuentos\Calculadora de descuentos\bin\Debug\net10.0\Calculadora de descuentos.exe
+C:\Users\User\Desktop\ejercicios\examen\Calculadora de descuentos\Calculadora de descuentos\bin\Debug\net10.0\Calculadora de descuentos.deps.json
+C:\Users\User\Desktop\ejercicios\examen\Calculadora de descuentos\Calculadora de descuentos\bin\Debug\net10.0\Calculadora de descuentos.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\examen\Calculadora de descuentos\Calculadora de descuentos\bin\Debug\net10.0\Calculadora de descuentos.dll
+C:\Users\User\Desktop\ejercicios\examen\Calculadora de descuentos\Calculadora de descuentos\bin\Debug\net10.0\Calculadora de descuentos.pdb
+C:\Users\User\Desktop\ejercicios\examen\Calculadora de descuentos\Calculadora de descuentos\obj\Debug\net10.0\Calculadora de descuentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\examen\Calculadora de descuentos\Calculadora de descuentos\obj\Debug\net10.0\Calculadora de descuentos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\Calculadora de descuentos\Calculadora de descuentos\obj\Debug\net10.0\Calculadora de descuentos.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\examen\Calculadora de descuentos\Calculadora de descuentos\obj\Debug\net10.0\Calculadora de descuentos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\Calculadora de descuentos\Calculadora de descuentos\obj\Debug\net10.0\Calculadora de descuentos.dll
+C:\Users\User\Desktop\ejercicios\examen\Calculadora de descuentos\Calculadora de descuentos\obj\Debug\net10.0\refint\Calculadora de descuentos.dll
+C:\Users\User\Desktop\ejercicios\examen\Calculadora de descuentos\Calculadora de descuentos\obj\Debug\net10.0\Calculadora de descuentos.pdb
+C:\Users\User\Desktop\ejercicios\examen\Calculadora de descuentos\Calculadora de descuentos\obj\Debug\net10.0\Calculadora de descuentos.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\examen\Calculadora de descuentos\Calculadora de descuentos\obj\Debug\net10.0\ref\Calculadora de descuentos.dll
