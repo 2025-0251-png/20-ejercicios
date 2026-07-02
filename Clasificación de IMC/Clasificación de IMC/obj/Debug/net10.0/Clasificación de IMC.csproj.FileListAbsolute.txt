@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\examen\Clasificación de IMC\Clasificación de IMC\bin\Debug\net10.0\Clasificación de IMC.exe
+C:\Users\User\Desktop\ejercicios\examen\Clasificación de IMC\Clasificación de IMC\bin\Debug\net10.0\Clasificación de IMC.deps.json
+C:\Users\User\Desktop\ejercicios\examen\Clasificación de IMC\Clasificación de IMC\bin\Debug\net10.0\Clasificación de IMC.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\examen\Clasificación de IMC\Clasificación de IMC\bin\Debug\net10.0\Clasificación de IMC.dll
+C:\Users\User\Desktop\ejercicios\examen\Clasificación de IMC\Clasificación de IMC\bin\Debug\net10.0\Clasificación de IMC.pdb
+C:\Users\User\Desktop\ejercicios\examen\Clasificación de IMC\Clasificación de IMC\obj\Debug\net10.0\Clasificación de IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\examen\Clasificación de IMC\Clasificación de IMC\obj\Debug\net10.0\Clasificación de IMC.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\Clasificación de IMC\Clasificación de IMC\obj\Debug\net10.0\Clasificación de IMC.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\examen\Clasificación de IMC\Clasificación de IMC\obj\Debug\net10.0\Clasificación de IMC.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\Clasificación de IMC\Clasificación de IMC\obj\Debug\net10.0\Clasificación de IMC.dll
+C:\Users\User\Desktop\ejercicios\examen\Clasificación de IMC\Clasificación de IMC\obj\Debug\net10.0\refint\Clasificación de IMC.dll
+C:\Users\User\Desktop\ejercicios\examen\Clasificación de IMC\Clasificación de IMC\obj\Debug\net10.0\Clasificación de IMC.pdb
+C:\Users\User\Desktop\ejercicios\examen\Clasificación de IMC\Clasificación de IMC\obj\Debug\net10.0\Clasificación de IMC.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\examen\Clasificación de IMC\Clasificación de IMC\obj\Debug\net10.0\ref\Clasificación de IMC.dll

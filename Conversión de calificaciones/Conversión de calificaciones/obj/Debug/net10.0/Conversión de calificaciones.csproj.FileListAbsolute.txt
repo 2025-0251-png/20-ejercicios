@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\examen\Conversión de calificaciones\Conversión de calificaciones\bin\Debug\net10.0\Conversión de calificaciones.exe
+C:\Users\User\Desktop\ejercicios\examen\Conversión de calificaciones\Conversión de calificaciones\bin\Debug\net10.0\Conversión de calificaciones.deps.json
+C:\Users\User\Desktop\ejercicios\examen\Conversión de calificaciones\Conversión de calificaciones\bin\Debug\net10.0\Conversión de calificaciones.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\examen\Conversión de calificaciones\Conversión de calificaciones\bin\Debug\net10.0\Conversión de calificaciones.dll
+C:\Users\User\Desktop\ejercicios\examen\Conversión de calificaciones\Conversión de calificaciones\bin\Debug\net10.0\Conversión de calificaciones.pdb
+C:\Users\User\Desktop\ejercicios\examen\Conversión de calificaciones\Conversión de calificaciones\obj\Debug\net10.0\Conversión de calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\examen\Conversión de calificaciones\Conversión de calificaciones\obj\Debug\net10.0\Conversión de calificaciones.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\Conversión de calificaciones\Conversión de calificaciones\obj\Debug\net10.0\Conversión de calificaciones.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\examen\Conversión de calificaciones\Conversión de calificaciones\obj\Debug\net10.0\Conversión de calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\Conversión de calificaciones\Conversión de calificaciones\obj\Debug\net10.0\Conversión de calificaciones.dll
+C:\Users\User\Desktop\ejercicios\examen\Conversión de calificaciones\Conversión de calificaciones\obj\Debug\net10.0\refint\Conversión de calificaciones.dll
+C:\Users\User\Desktop\ejercicios\examen\Conversión de calificaciones\Conversión de calificaciones\obj\Debug\net10.0\Conversión de calificaciones.pdb
+C:\Users\User\Desktop\ejercicios\examen\Conversión de calificaciones\Conversión de calificaciones\obj\Debug\net10.0\Conversión de calificaciones.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\examen\Conversión de calificaciones\Conversión de calificaciones\obj\Debug\net10.0\ref\Conversión de calificaciones.dll

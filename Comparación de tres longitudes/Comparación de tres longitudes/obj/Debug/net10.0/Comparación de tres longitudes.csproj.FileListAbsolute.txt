@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\examen\Comparación de tres longitudes\Comparación de tres longitudes\bin\Debug\net10.0\Comparación de tres longitudes.exe
+C:\Users\User\Desktop\ejercicios\examen\Comparación de tres longitudes\Comparación de tres longitudes\bin\Debug\net10.0\Comparación de tres longitudes.deps.json
+C:\Users\User\Desktop\ejercicios\examen\Comparación de tres longitudes\Comparación de tres longitudes\bin\Debug\net10.0\Comparación de tres longitudes.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\examen\Comparación de tres longitudes\Comparación de tres longitudes\bin\Debug\net10.0\Comparación de tres longitudes.dll
+C:\Users\User\Desktop\ejercicios\examen\Comparación de tres longitudes\Comparación de tres longitudes\bin\Debug\net10.0\Comparación de tres longitudes.pdb
+C:\Users\User\Desktop\ejercicios\examen\Comparación de tres longitudes\Comparación de tres longitudes\obj\Debug\net10.0\Comparación de tres longitudes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\examen\Comparación de tres longitudes\Comparación de tres longitudes\obj\Debug\net10.0\Comparación de tres longitudes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\Comparación de tres longitudes\Comparación de tres longitudes\obj\Debug\net10.0\Comparación de tres longitudes.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\examen\Comparación de tres longitudes\Comparación de tres longitudes\obj\Debug\net10.0\Comparación de tres longitudes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\Comparación de tres longitudes\Comparación de tres longitudes\obj\Debug\net10.0\Comparación de tres longitudes.dll
+C:\Users\User\Desktop\ejercicios\examen\Comparación de tres longitudes\Comparación de tres longitudes\obj\Debug\net10.0\refint\Comparación de tres longitudes.dll
+C:\Users\User\Desktop\ejercicios\examen\Comparación de tres longitudes\Comparación de tres longitudes\obj\Debug\net10.0\Comparación de tres longitudes.pdb
+C:\Users\User\Desktop\ejercicios\examen\Comparación de tres longitudes\Comparación de tres longitudes\obj\Debug\net10.0\Comparación de tres longitudes.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\examen\Comparación de tres longitudes\Comparación de tres longitudes\obj\Debug\net10.0\ref\Comparación de tres longitudes.dll

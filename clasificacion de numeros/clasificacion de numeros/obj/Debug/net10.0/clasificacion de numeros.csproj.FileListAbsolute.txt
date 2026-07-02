@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\examen\clasificacion de numeros\clasificacion de numeros\bin\Debug\net10.0\clasificacion de numeros.exe
+C:\Users\User\Desktop\ejercicios\examen\clasificacion de numeros\clasificacion de numeros\bin\Debug\net10.0\clasificacion de numeros.deps.json
+C:\Users\User\Desktop\ejercicios\examen\clasificacion de numeros\clasificacion de numeros\bin\Debug\net10.0\clasificacion de numeros.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\examen\clasificacion de numeros\clasificacion de numeros\bin\Debug\net10.0\clasificacion de numeros.dll
+C:\Users\User\Desktop\ejercicios\examen\clasificacion de numeros\clasificacion de numeros\bin\Debug\net10.0\clasificacion de numeros.pdb
+C:\Users\User\Desktop\ejercicios\examen\clasificacion de numeros\clasificacion de numeros\obj\Debug\net10.0\clasificacion de numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\examen\clasificacion de numeros\clasificacion de numeros\obj\Debug\net10.0\clasificacion de numeros.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\clasificacion de numeros\clasificacion de numeros\obj\Debug\net10.0\clasificacion de numeros.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\examen\clasificacion de numeros\clasificacion de numeros\obj\Debug\net10.0\clasificacion de numeros.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\clasificacion de numeros\clasificacion de numeros\obj\Debug\net10.0\clasificacion de numeros.dll
+C:\Users\User\Desktop\ejercicios\examen\clasificacion de numeros\clasificacion de numeros\obj\Debug\net10.0\refint\clasificacion de numeros.dll
+C:\Users\User\Desktop\ejercicios\examen\clasificacion de numeros\clasificacion de numeros\obj\Debug\net10.0\clasificacion de numeros.pdb
+C:\Users\User\Desktop\ejercicios\examen\clasificacion de numeros\clasificacion de numeros\obj\Debug\net10.0\clasificacion de numeros.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\examen\clasificacion de numeros\clasificacion de numeros\obj\Debug\net10.0\ref\clasificacion de numeros.dll
