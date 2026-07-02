@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\dias de la semana\dias de la semana\obj\Debug\net10.0\dias de la semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\dias de la semana\dias de la semana\obj\Debug\net10.0\dias de la semana.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\dias de la semana\dias de la semana\obj\Debug\net10.0\dias de la semana.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\dias de la semana\dias de la semana\obj\Debug\net10.0\dias de la semana.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\dias de la semana\dias de la semana\bin\Debug\net10.0\dias de la semana.exe
+C:\Users\User\Desktop\ejercicios\dias de la semana\dias de la semana\bin\Debug\net10.0\dias de la semana.deps.json
+C:\Users\User\Desktop\ejercicios\dias de la semana\dias de la semana\bin\Debug\net10.0\dias de la semana.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\dias de la semana\dias de la semana\bin\Debug\net10.0\dias de la semana.dll
+C:\Users\User\Desktop\ejercicios\dias de la semana\dias de la semana\bin\Debug\net10.0\dias de la semana.pdb
+C:\Users\User\Desktop\ejercicios\dias de la semana\dias de la semana\obj\Debug\net10.0\dias de la semana.dll
+C:\Users\User\Desktop\ejercicios\dias de la semana\dias de la semana\obj\Debug\net10.0\refint\dias de la semana.dll
+C:\Users\User\Desktop\ejercicios\dias de la semana\dias de la semana\obj\Debug\net10.0\dias de la semana.pdb
+C:\Users\User\Desktop\ejercicios\dias de la semana\dias de la semana\obj\Debug\net10.0\dias de la semana.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\dias de la semana\dias de la semana\obj\Debug\net10.0\ref\dias de la semana.dll

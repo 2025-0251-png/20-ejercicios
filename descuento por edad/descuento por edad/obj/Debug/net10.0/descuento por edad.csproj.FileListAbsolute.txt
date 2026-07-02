@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\examen\descuento por edad\descuento por edad\bin\Debug\net10.0\descuento por edad.exe
+C:\Users\User\Desktop\ejercicios\examen\descuento por edad\descuento por edad\bin\Debug\net10.0\descuento por edad.deps.json
+C:\Users\User\Desktop\ejercicios\examen\descuento por edad\descuento por edad\bin\Debug\net10.0\descuento por edad.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\examen\descuento por edad\descuento por edad\bin\Debug\net10.0\descuento por edad.dll
+C:\Users\User\Desktop\ejercicios\examen\descuento por edad\descuento por edad\bin\Debug\net10.0\descuento por edad.pdb
+C:\Users\User\Desktop\ejercicios\examen\descuento por edad\descuento por edad\obj\Debug\net10.0\descuento por edad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\examen\descuento por edad\descuento por edad\obj\Debug\net10.0\descuento por edad.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\descuento por edad\descuento por edad\obj\Debug\net10.0\descuento por edad.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\examen\descuento por edad\descuento por edad\obj\Debug\net10.0\descuento por edad.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\descuento por edad\descuento por edad\obj\Debug\net10.0\descuento por edad.dll
+C:\Users\User\Desktop\ejercicios\examen\descuento por edad\descuento por edad\obj\Debug\net10.0\refint\descuento por edad.dll
+C:\Users\User\Desktop\ejercicios\examen\descuento por edad\descuento por edad\obj\Debug\net10.0\descuento por edad.pdb
+C:\Users\User\Desktop\ejercicios\examen\descuento por edad\descuento por edad\obj\Debug\net10.0\descuento por edad.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\examen\descuento por edad\descuento por edad\obj\Debug\net10.0\ref\descuento por edad.dll
