@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\examen\Conversión de horas a turnos\Conversión de horas a turnos\bin\Debug\net10.0\Conversión de horas a turnos.exe
+C:\Users\User\Desktop\ejercicios\examen\Conversión de horas a turnos\Conversión de horas a turnos\bin\Debug\net10.0\Conversión de horas a turnos.deps.json
+C:\Users\User\Desktop\ejercicios\examen\Conversión de horas a turnos\Conversión de horas a turnos\bin\Debug\net10.0\Conversión de horas a turnos.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\examen\Conversión de horas a turnos\Conversión de horas a turnos\bin\Debug\net10.0\Conversión de horas a turnos.dll
+C:\Users\User\Desktop\ejercicios\examen\Conversión de horas a turnos\Conversión de horas a turnos\bin\Debug\net10.0\Conversión de horas a turnos.pdb
+C:\Users\User\Desktop\ejercicios\examen\Conversión de horas a turnos\Conversión de horas a turnos\obj\Debug\net10.0\Conversión de horas a turnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\examen\Conversión de horas a turnos\Conversión de horas a turnos\obj\Debug\net10.0\Conversión de horas a turnos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\Conversión de horas a turnos\Conversión de horas a turnos\obj\Debug\net10.0\Conversión de horas a turnos.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\examen\Conversión de horas a turnos\Conversión de horas a turnos\obj\Debug\net10.0\Conversión de horas a turnos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\Conversión de horas a turnos\Conversión de horas a turnos\obj\Debug\net10.0\Conversión de horas a turnos.dll
+C:\Users\User\Desktop\ejercicios\examen\Conversión de horas a turnos\Conversión de horas a turnos\obj\Debug\net10.0\refint\Conversión de horas a turnos.dll
+C:\Users\User\Desktop\ejercicios\examen\Conversión de horas a turnos\Conversión de horas a turnos\obj\Debug\net10.0\Conversión de horas a turnos.pdb
+C:\Users\User\Desktop\ejercicios\examen\Conversión de horas a turnos\Conversión de horas a turnos\obj\Debug\net10.0\Conversión de horas a turnos.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\examen\Conversión de horas a turnos\Conversión de horas a turnos\obj\Debug\net10.0\ref\Conversión de horas a turnos.dll
