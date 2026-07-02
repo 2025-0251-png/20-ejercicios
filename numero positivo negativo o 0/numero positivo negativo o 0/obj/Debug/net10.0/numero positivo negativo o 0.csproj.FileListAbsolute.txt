@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\examen\numero positivo negativo o 0\numero positivo negativo o 0\obj\Debug\net10.0\numero positivo negativo o 0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\examen\numero positivo negativo o 0\numero positivo negativo o 0\obj\Debug\net10.0\numero positivo negativo o 0.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\numero positivo negativo o 0\numero positivo negativo o 0\obj\Debug\net10.0\numero positivo negativo o 0.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\examen\numero positivo negativo o 0\numero positivo negativo o 0\obj\Debug\net10.0\numero positivo negativo o 0.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\numero positivo negativo o 0\numero positivo negativo o 0\bin\Debug\net10.0\numero positivo negativo o 0.exe
+C:\Users\User\Desktop\ejercicios\examen\numero positivo negativo o 0\numero positivo negativo o 0\bin\Debug\net10.0\numero positivo negativo o 0.deps.json
+C:\Users\User\Desktop\ejercicios\examen\numero positivo negativo o 0\numero positivo negativo o 0\bin\Debug\net10.0\numero positivo negativo o 0.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\examen\numero positivo negativo o 0\numero positivo negativo o 0\bin\Debug\net10.0\numero positivo negativo o 0.dll
+C:\Users\User\Desktop\ejercicios\examen\numero positivo negativo o 0\numero positivo negativo o 0\bin\Debug\net10.0\numero positivo negativo o 0.pdb
+C:\Users\User\Desktop\ejercicios\examen\numero positivo negativo o 0\numero positivo negativo o 0\obj\Debug\net10.0\numero positivo negativo o 0.dll
+C:\Users\User\Desktop\ejercicios\examen\numero positivo negativo o 0\numero positivo negativo o 0\obj\Debug\net10.0\refint\numero positivo negativo o 0.dll
+C:\Users\User\Desktop\ejercicios\examen\numero positivo negativo o 0\numero positivo negativo o 0\obj\Debug\net10.0\numero positivo negativo o 0.pdb
+C:\Users\User\Desktop\ejercicios\examen\numero positivo negativo o 0\numero positivo negativo o 0\obj\Debug\net10.0\numero positivo negativo o 0.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\examen\numero positivo negativo o 0\numero positivo negativo o 0\obj\Debug\net10.0\ref\numero positivo negativo o 0.dll

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\examen\numero mayor entre 3\numero mayor entre 3\bin\Debug\net10.0\numero mayor entre 3.exe
+C:\Users\User\Desktop\ejercicios\examen\numero mayor entre 3\numero mayor entre 3\bin\Debug\net10.0\numero mayor entre 3.deps.json
+C:\Users\User\Desktop\ejercicios\examen\numero mayor entre 3\numero mayor entre 3\bin\Debug\net10.0\numero mayor entre 3.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\examen\numero mayor entre 3\numero mayor entre 3\bin\Debug\net10.0\numero mayor entre 3.dll
+C:\Users\User\Desktop\ejercicios\examen\numero mayor entre 3\numero mayor entre 3\bin\Debug\net10.0\numero mayor entre 3.pdb
+C:\Users\User\Desktop\ejercicios\examen\numero mayor entre 3\numero mayor entre 3\obj\Debug\net10.0\numero mayor entre 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\examen\numero mayor entre 3\numero mayor entre 3\obj\Debug\net10.0\numero mayor entre 3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\numero mayor entre 3\numero mayor entre 3\obj\Debug\net10.0\numero mayor entre 3.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\examen\numero mayor entre 3\numero mayor entre 3\obj\Debug\net10.0\numero mayor entre 3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\numero mayor entre 3\numero mayor entre 3\obj\Debug\net10.0\numero mayor entre 3.dll
+C:\Users\User\Desktop\ejercicios\examen\numero mayor entre 3\numero mayor entre 3\obj\Debug\net10.0\refint\numero mayor entre 3.dll
+C:\Users\User\Desktop\ejercicios\examen\numero mayor entre 3\numero mayor entre 3\obj\Debug\net10.0\numero mayor entre 3.pdb
+C:\Users\User\Desktop\ejercicios\examen\numero mayor entre 3\numero mayor entre 3\obj\Debug\net10.0\numero mayor entre 3.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\examen\numero mayor entre 3\numero mayor entre 3\obj\Debug\net10.0\ref\numero mayor entre 3.dll
